@@ -1,0 +1,122 @@
+define category "Whitelist - Marketing"
+;accounts.youtube.com                               ; Technology/Internet  | AAA -8/3/2018
+aws.amazon.com                                     ; Technology/Internet
+cloudfront.net                                     ; Content Servers
+flickr.com                                         ; Media Sharing
+instagr.am                                         ; Media Sharing
+instagram.com                                      ; Media Sharing; Social Networking
+picmonkey.com                                      ; Media Sharing
+prezi.com                                          ; Office/Business Applications
+staticflickr.com                                   ; Media Sharing; Content Servers
+snapchat.com                                       ; Chat (IM)/SMS; Social Networking
+shrinktheweb.com                                   ; Technology/Internet; Proxy Avoidance
+gettyimages.com 				   ; RF252720
+end category "Whitelist - Marketing"
+
+define category "Whitelist - Mobile Development"
+exacttarget.com                                    ; Business/Economy
+exacttargetapis.com                                ; Technology/Internet
+play.google.com                                    ; Shopping; Software Downloads
+api.crashlytics.com                                ; Technology/Internet
+crashlytics.com                                    ; Technology/Internet
+amazonaws.com                                      ; Technology/Internet
+23.21.89.20                                        ; 
+23.23.133.187                                      ; 
+23.23.150.61                                       ; 
+itunesconnect.apple.com                            ; Technology/Internet
+developer.android.com                              ; Technology/Internet
+mc.s7.exacttarget.com                              ; Business/Economy
+members.s7.exacttarget.com                         ; Business/Economy
+maven.google.com ; RF269013 - DDR                  ; Business/Economy
+end category "Whitelist - Mobile Development"
+
+define category "Whitelist - None"
+;184.51.113.76                                      ; Content Servers
+199.204.164.218                                    ; none
+obstech.com                                        ; none
+;vdi.tsys.hosting                                   ; Financial Services; Technology/Internet
+tsyscustomerinsight.com                            ; none
+dvu1.aodacornsys.com                               ; none
+FloridaCreditLawyer.com                            ; none
+;byrdwiser.com                                      ; Proxy Avoidance
+gdjdesigns.com                                     ; none
+jackoboyle.com                                     ; none
+itascastudentsuccess.org                           ; none
+clintoncountythrive.com                            ; none
+;yonkersthrives.org                                 ; Gambling
+;eoepartnership.org                                 ; Education  | AAA -8/3/2018
+unitedeway.com                                     ; none
+;laserapp.net                                       ; Brokerage/Trading
+test.optivlearning.com                             ; none
+nfcuspapps.net                                     ; Placeholders
+nfcuspapps-test.net                                ; Placeholders
+70.32.81.140                                       ; none
+donatenola.org
+end category "Whitelist - None"
+
+define category "Whitelist - Power User Plus"
+category="Whitelist - Power Users"
+blogblog.com                                       ; Content Servers
+blogger.com                                        ; Personal Sites
+blogspot.com                                       ; Web Hosting
+golfwrx.com                                        ; Sports/Recreation
+naics.com                                          ; Business/Economy
+tixelator.com                                      ; 
+virustotal.com                                     ; Technology/Internet
+visabroadcasts.com                                 ; Financial Services
+misti.com                                          ; Reference
+gulfcoastkidshouse.org                             ; Charitable Organizations
+stackhands.com                                     ; Technology/Internet
+barrancaswreaths.com                               ; Charitable Organizations
+ricksblog.biz                                      ; Personal Sites
+216.200.96.83                                      ; 
+end category "Whitelist - Power User Plus"
+
+define category "Whitelist - Power Users"
+category="Whitelist - General Users"
+googlesyndication.com                              ; Web Ads/Analytics
+auction123.com                                     ; Business/Economy
+atlmsmedia1.noblesys.com                           ; Technology/Internet
+currituckrelay.com                                 ; Suspicious
+dcimprov.com                                       ; Entertainment; Humor/Jokes
+docs.google.com                                    ; File Storage/Sharing; Office/Business Applications
+dodd-frank.com                                     ; Financial Services
+eventdigital.com                                   ; Entertainment
+fnfismd.com                                        ; Financial Services
+google-analytics.com                               ; Web Ads/Analytics
+googleadservices.com                               ; Technology/Internet
+gotoassist.com                                     ; Remote Access Tools
+greatplacetowork.com                               ; Business/Economy
+mathsisfun.com                                     ; Education
+paaecu1011.files.wordpress.com                     ; Content Servers
+pahrcu0911.wordpress.com                           ; Web Hosting
+paencu1011.files.wordpress.com                     ; Content Servers
+pahrcu0911.files.wordpress.com                     ; Content Servers
+netop.com                                          ; Education; Remote Access Tools
+nexus.ensighten.com                                ; Web Ads/Analytics
+r20.rs6.net                                        ; Business/Economy
+reloviewscomplete.com                              ; Business/Economy
+shrm.org                                           ; Education
+smugmug.com                                        ; Media Sharing
+vimeo.com                                          ; Mixed Content/Potentially Adult; Audio/Video Clips
+zoomerang.com                                      ; Business/Economy
+wupos.westernunion.com                             ; Financial Services
+wxbug.com                                          ; 
+uspspostalone.com                                  ; Business/Economy; Government/Legal
+usrfiles.com                                       ; Content Servers
+ccpao-tpp.com                                      ; Government/Legal
+badappreviews.com                                  ; Technology/Internet; Newsgroups/Forums
+cloudfront.net                                     ; Content Servers
+kid1.org                                           ; Placeholders
+naics.com                                          ; Business/Economy
+visabroadcasts.com                                 ; Financial Services
+misti.com                                          ; Reference
+tsyscustomerinsight.com                            ; 
+fim.tsyscustomerinsight.com                        ; 
+nfcuprod.tsyscustomerinsight.com                   ; 
+nfcutrain.tsyscustomerinsight.com                  ; 
+macromedia.com                                     ; Technology/Internet
+chulavistacars.net                                 ; Vehicles
+pack.google.com                                    ; Software Downloads
+cache.pack.google.com/edgedl/chrome/dict*          ; Software Downloads
+end category "Whitelist - Power Users"
